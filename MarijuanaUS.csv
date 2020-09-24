@@ -1,0 +1,817 @@
+outcome,age_group,year_pair,state,estimate,ci_lower,ci_upper
+Marijuana Use in the Past Month,12 or Older,2002-03,Alabama,0.043155,0.034499,0.053862
+Marijuana Use in the Past Month,12 or Older,2002-03,Alaska,0.097837,0.08103,0.117682
+Marijuana Use in the Past Month,12 or Older,2002-03,Arizona,0.056773,0.046052,0.069807
+Marijuana Use in the Past Month,12 or Older,2002-03,Arkansas,0.056341,0.046335,0.068353
+Marijuana Use in the Past Month,12 or Older,2002-03,California,0.065032,0.058173,0.072637
+Marijuana Use in the Past Month,12 or Older,2002-03,Colorado,0.084905,0.071134,0.101053
+Marijuana Use in the Past Month,12 or Older,2002-03,Connecticut,0.069415,0.057971,0.08292
+Marijuana Use in the Past Month,12 or Older,2002-03,Delaware,0.068882,0.05843,0.081044
+Marijuana Use in the Past Month,12 or Older,2002-03,District of Columbia,0.096037,0.080528,0.114164
+Marijuana Use in the Past Month,12 or Older,2002-03,Florida,0.065757,0.058735,0.073553
+Marijuana Use in the Past Month,12 or Older,2002-03,Georgia,0.049263,0.040113,0.060368
+Marijuana Use in the Past Month,12 or Older,2002-03,Hawaii,0.069482,0.056164,0.085672
+Marijuana Use in the Past Month,12 or Older,2002-03,Idaho,0.050865,0.041688,0.061932
+Marijuana Use in the Past Month,12 or Older,2002-03,Illinois,0.056036,0.050423,0.062232
+Marijuana Use in the Past Month,12 or Older,2002-03,Indiana,0.061244,0.050489,0.074113
+Marijuana Use in the Past Month,12 or Older,2002-03,Iowa,0.049026,0.039882,0.060134
+Marijuana Use in the Past Month,12 or Older,2002-03,Kansas,0.049089,0.039713,0.060539
+Marijuana Use in the Past Month,12 or Older,2002-03,Kentucky,0.0562,0.045845,0.068726
+Marijuana Use in the Past Month,12 or Older,2002-03,Louisiana,0.05766,0.047774,0.069444
+Marijuana Use in the Past Month,12 or Older,2002-03,Maine,0.079466,0.066107,0.095249
+Marijuana Use in the Past Month,12 or Older,2002-03,Maryland,0.05725,0.047431,0.068955
+Marijuana Use in the Past Month,12 or Older,2002-03,Massachusetts,0.077998,0.065657,0.092429
+Marijuana Use in the Past Month,12 or Older,2002-03,Michigan,0.072014,0.065131,0.079563
+Marijuana Use in the Past Month,12 or Older,2002-03,Minnesota,0.063722,0.052963,0.07649
+Marijuana Use in the Past Month,12 or Older,2002-03,Mississippi,0.046422,0.037372,0.057532
+Marijuana Use in the Past Month,12 or Older,2002-03,Missouri,0.067648,0.055959,0.081567
+Marijuana Use in the Past Month,12 or Older,2002-03,Montana,0.091723,0.076639,0.109425
+Marijuana Use in the Past Month,12 or Older,2002-03,Nebraska,0.059707,0.048922,0.072687
+Marijuana Use in the Past Month,12 or Older,2002-03,Nevada,0.076188,0.06252,0.092549
+Marijuana Use in the Past Month,12 or Older,2002-03,New Hampshire,0.102335,0.085191,0.122467
+Marijuana Use in the Past Month,12 or Older,2002-03,New Jersey,0.050506,0.041334,0.061584
+Marijuana Use in the Past Month,12 or Older,2002-03,New Mexico,0.073705,0.060609,0.089361
+Marijuana Use in the Past Month,12 or Older,2002-03,New York,0.07335,0.06649,0.080858
+Marijuana Use in the Past Month,12 or Older,2002-03,North Carolina,0.058946,0.048895,0.07091
+Marijuana Use in the Past Month,12 or Older,2002-03,North Dakota,0.053462,0.043478,0.065581
+Marijuana Use in the Past Month,12 or Older,2002-03,Ohio,0.064938,0.058685,0.071807
+Marijuana Use in the Past Month,12 or Older,2002-03,Oklahoma,0.055799,0.04502,0.068973
+Marijuana Use in the Past Month,12 or Older,2002-03,Oregon,0.088816,0.073739,0.10662
+Marijuana Use in the Past Month,12 or Older,2002-03,Pennsylvania,0.056419,0.050679,0.062766
+Marijuana Use in the Past Month,12 or Older,2002-03,Rhode Island,0.095648,0.080031,0.113935
+Marijuana Use in the Past Month,12 or Older,2002-03,South Carolina,0.056514,0.046608,0.068375
+Marijuana Use in the Past Month,12 or Older,2002-03,South Dakota,0.052363,0.042821,0.06389
+Marijuana Use in the Past Month,12 or Older,2002-03,Tennessee,0.045901,0.036844,0.057053
+Marijuana Use in the Past Month,12 or Older,2002-03,Texas,0.047877,0.042872,0.053433
+Marijuana Use in the Past Month,12 or Older,2002-03,Utah,0.040041,0.031826,0.050267
+Marijuana Use in the Past Month,12 or Older,2002-03,Vermont,0.097696,0.082214,0.115724
+Marijuana Use in the Past Month,12 or Older,2002-03,Virginia,0.059623,0.049023,0.072341
+Marijuana Use in the Past Month,12 or Older,2002-03,Washington,0.074136,0.062401,0.087872
+Marijuana Use in the Past Month,12 or Older,2002-03,West Virginia,0.051183,0.041626,0.06279
+Marijuana Use in the Past Month,12 or Older,2002-03,Wisconsin,0.053994,0.044581,0.065258
+Marijuana Use in the Past Month,12 or Older,2002-03,Wyoming,0.054459,0.044452,0.066561
+Marijuana Use in the Past Month,12 or Older,2003-04,Alabama,0.047071,0.038612,0.057273
+Marijuana Use in the Past Month,12 or Older,2003-04,Alaska,0.098837,0.083394,0.116776
+Marijuana Use in the Past Month,12 or Older,2003-04,Arizona,0.058993,0.048584,0.071464
+Marijuana Use in the Past Month,12 or Older,2003-04,Arkansas,0.05801,0.048817,0.06881
+Marijuana Use in the Past Month,12 or Older,2003-04,California,0.067051,0.060744,0.07396
+Marijuana Use in the Past Month,12 or Older,2003-04,Colorado,0.073297,0.061234,0.087515
+Marijuana Use in the Past Month,12 or Older,2003-04,Connecticut,0.070603,0.059505,0.083587
+Marijuana Use in the Past Month,12 or Older,2003-04,Delaware,0.06257,0.052833,0.073961
+Marijuana Use in the Past Month,12 or Older,2003-04,District of Columbia,0.074104,0.061121,0.089581
+Marijuana Use in the Past Month,12 or Older,2003-04,Florida,0.058764,0.052601,0.065599
+Marijuana Use in the Past Month,12 or Older,2003-04,Georgia,0.05473,0.045002,0.066414
+Marijuana Use in the Past Month,12 or Older,2003-04,Hawaii,0.065241,0.053251,0.079705
+Marijuana Use in the Past Month,12 or Older,2003-04,Idaho,0.048336,0.039711,0.058719
+Marijuana Use in the Past Month,12 or Older,2003-04,Illinois,0.057449,0.051598,0.06392
+Marijuana Use in the Past Month,12 or Older,2003-04,Indiana,0.055932,0.046411,0.067269
+Marijuana Use in the Past Month,12 or Older,2003-04,Iowa,0.046986,0.038303,0.05752
+Marijuana Use in the Past Month,12 or Older,2003-04,Kansas,0.050246,0.041054,0.061365
+Marijuana Use in the Past Month,12 or Older,2003-04,Kentucky,0.064404,0.053745,0.077006
+Marijuana Use in the Past Month,12 or Older,2003-04,Louisiana,0.052485,0.043833,0.062734
+Marijuana Use in the Past Month,12 or Older,2003-04,Maine,0.082661,0.06966,0.097834
+Marijuana Use in the Past Month,12 or Older,2003-04,Maryland,0.055368,0.045386,0.067392
+Marijuana Use in the Past Month,12 or Older,2003-04,Massachusetts,0.087039,0.074524,0.101426
+Marijuana Use in the Past Month,12 or Older,2003-04,Michigan,0.072332,0.065649,0.079637
+Marijuana Use in the Past Month,12 or Older,2003-04,Minnesota,0.060978,0.050138,0.073979
+Marijuana Use in the Past Month,12 or Older,2003-04,Mississippi,0.042286,0.034235,0.052129
+Marijuana Use in the Past Month,12 or Older,2003-04,Missouri,0.063828,0.053465,0.076037
+Marijuana Use in the Past Month,12 or Older,2003-04,Montana,0.079488,0.066834,0.094294
+Marijuana Use in the Past Month,12 or Older,2003-04,Nebraska,0.053068,0.043683,0.064333
+Marijuana Use in the Past Month,12 or Older,2003-04,Nevada,0.061648,0.050953,0.074411
+Marijuana Use in the Past Month,12 or Older,2003-04,New Hampshire,0.086849,0.073364,0.102539
+Marijuana Use in the Past Month,12 or Older,2003-04,New Jersey,0.050065,0.041138,0.060806
+Marijuana Use in the Past Month,12 or Older,2003-04,New Mexico,0.086531,0.072504,0.102969
+Marijuana Use in the Past Month,12 or Older,2003-04,New York,0.07432,0.06745,0.081828
+Marijuana Use in the Past Month,12 or Older,2003-04,North Carolina,0.056165,0.04661,0.067541
+Marijuana Use in the Past Month,12 or Older,2003-04,North Dakota,0.056195,0.046341,0.067996
+Marijuana Use in the Past Month,12 or Older,2003-04,Ohio,0.061074,0.055502,0.067165
+Marijuana Use in the Past Month,12 or Older,2003-04,Oklahoma,0.056026,0.046184,0.067816
+Marijuana Use in the Past Month,12 or Older,2003-04,Oregon,0.080324,0.067933,0.094745
+Marijuana Use in the Past Month,12 or Older,2003-04,Pennsylvania,0.060195,0.054681,0.066227
+Marijuana Use in the Past Month,12 or Older,2003-04,Rhode Island,0.091443,0.077989,0.106947
+Marijuana Use in the Past Month,12 or Older,2003-04,South Carolina,0.057414,0.047648,0.069038
+Marijuana Use in the Past Month,12 or Older,2003-04,South Dakota,0.048882,0.040074,0.059506
+Marijuana Use in the Past Month,12 or Older,2003-04,Tennessee,0.050263,0.040991,0.061499
+Marijuana Use in the Past Month,12 or Older,2003-04,Texas,0.046879,0.042043,0.052242
+Marijuana Use in the Past Month,12 or Older,2003-04,Utah,0.042112,0.033678,0.052542
+Marijuana Use in the Past Month,12 or Older,2003-04,Vermont,0.089925,0.076709,0.105159
+Marijuana Use in the Past Month,12 or Older,2003-04,Virginia,0.053919,0.044346,0.065417
+Marijuana Use in the Past Month,12 or Older,2003-04,Washington,0.063569,0.052785,0.076378
+Marijuana Use in the Past Month,12 or Older,2003-04,West Virginia,0.056069,0.046587,0.067344
+Marijuana Use in the Past Month,12 or Older,2003-04,Wisconsin,0.057481,0.047566,0.069312
+Marijuana Use in the Past Month,12 or Older,2003-04,Wyoming,0.057027,0.046928,0.06914
+Marijuana Use in the Past Month,12 or Older,2004-05,Alabama,0.048965,0.040357,0.059295
+Marijuana Use in the Past Month,12 or Older,2004-05,Alaska,0.101174,0.08516,0.119805
+Marijuana Use in the Past Month,12 or Older,2004-05,Arizona,0.053319,0.044088,0.064353
+Marijuana Use in the Past Month,12 or Older,2004-05,Arkansas,0.055176,0.04575,0.066408
+Marijuana Use in the Past Month,12 or Older,2004-05,California,0.067029,0.060489,0.074221
+Marijuana Use in the Past Month,12 or Older,2004-05,Colorado,0.075309,0.063525,0.089071
+Marijuana Use in the Past Month,12 or Older,2004-05,Connecticut,0.075856,0.063888,0.089851
+Marijuana Use in the Past Month,12 or Older,2004-05,Delaware,0.061879,0.052325,0.073042
+Marijuana Use in the Past Month,12 or Older,2004-05,District of Columbia,0.072728,0.059893,0.088057
+Marijuana Use in the Past Month,12 or Older,2004-05,Florida,0.058984,0.05315,0.065413
+Marijuana Use in the Past Month,12 or Older,2004-05,Georgia,0.05632,0.046222,0.068465
+Marijuana Use in the Past Month,12 or Older,2004-05,Hawaii,0.061629,0.049495,0.076498
+Marijuana Use in the Past Month,12 or Older,2004-05,Idaho,0.050534,0.041792,0.060988
+Marijuana Use in the Past Month,12 or Older,2004-05,Illinois,0.055857,0.050439,0.06182
+Marijuana Use in the Past Month,12 or Older,2004-05,Indiana,0.051241,0.042391,0.061819
+Marijuana Use in the Past Month,12 or Older,2004-05,Iowa,0.042352,0.034576,0.051781
+Marijuana Use in the Past Month,12 or Older,2004-05,Kansas,0.05271,0.043437,0.063831
+Marijuana Use in the Past Month,12 or Older,2004-05,Kentucky,0.061149,0.050952,0.07323
+Marijuana Use in the Past Month,12 or Older,2004-05,Louisiana,0.055448,0.046135,0.06651
+Marijuana Use in the Past Month,12 or Older,2004-05,Maine,0.085513,0.072242,0.100957
+Marijuana Use in the Past Month,12 or Older,2004-05,Maryland,0.050967,0.041649,0.062234
+Marijuana Use in the Past Month,12 or Older,2004-05,Massachusetts,0.075689,0.0646,0.088501
+Marijuana Use in the Past Month,12 or Older,2004-05,Michigan,0.067073,0.060835,0.073901
+Marijuana Use in the Past Month,12 or Older,2004-05,Minnesota,0.06957,0.058115,0.083085
+Marijuana Use in the Past Month,12 or Older,2004-05,Mississippi,0.047857,0.038805,0.058893
+Marijuana Use in the Past Month,12 or Older,2004-05,Missouri,0.055444,0.04593,0.066791
+Marijuana Use in the Past Month,12 or Older,2004-05,Montana,0.081744,0.068877,0.096764
+Marijuana Use in the Past Month,12 or Older,2004-05,Nebraska,0.050231,0.041229,0.061073
+Marijuana Use in the Past Month,12 or Older,2004-05,Nevada,0.060958,0.050602,0.073269
+Marijuana Use in the Past Month,12 or Older,2004-05,New Hampshire,0.075955,0.064189,0.089671
+Marijuana Use in the Past Month,12 or Older,2004-05,New Jersey,0.051232,0.04214,0.062159
+Marijuana Use in the Past Month,12 or Older,2004-05,New Mexico,0.066365,0.055364,0.079367
+Marijuana Use in the Past Month,12 or Older,2004-05,New York,0.072654,0.066199,0.079684
+Marijuana Use in the Past Month,12 or Older,2004-05,North Carolina,0.056496,0.04686,0.067971
+Marijuana Use in the Past Month,12 or Older,2004-05,North Dakota,0.047065,0.037784,0.058486
+Marijuana Use in the Past Month,12 or Older,2004-05,Ohio,0.059998,0.054232,0.066334
+Marijuana Use in the Past Month,12 or Older,2004-05,Oklahoma,0.051807,0.042665,0.062779
+Marijuana Use in the Past Month,12 or Older,2004-05,Oregon,0.083647,0.071045,0.098249
+Marijuana Use in the Past Month,12 or Older,2004-05,Pennsylvania,0.061068,0.055232,0.067476
+Marijuana Use in the Past Month,12 or Older,2004-05,Rhode Island,0.089182,0.076421,0.103834
+Marijuana Use in the Past Month,12 or Older,2004-05,South Carolina,0.054562,0.044974,0.066053
+Marijuana Use in the Past Month,12 or Older,2004-05,South Dakota,0.04981,0.041185,0.060127
+Marijuana Use in the Past Month,12 or Older,2004-05,Tennessee,0.058515,0.048084,0.07104
+Marijuana Use in the Past Month,12 or Older,2004-05,Texas,0.04648,0.041657,0.051831
+Marijuana Use in the Past Month,12 or Older,2004-05,Utah,0.04801,0.039078,0.058858
+Marijuana Use in the Past Month,12 or Older,2004-05,Vermont,0.090449,0.077293,0.105587
+Marijuana Use in the Past Month,12 or Older,2004-05,Virginia,0.048916,0.040154,0.059471
+Marijuana Use in the Past Month,12 or Older,2004-05,Washington,0.070129,0.058343,0.084085
+Marijuana Use in the Past Month,12 or Older,2004-05,West Virginia,0.058312,0.048674,0.06972
+Marijuana Use in the Past Month,12 or Older,2004-05,Wisconsin,0.060058,0.050506,0.071281
+Marijuana Use in the Past Month,12 or Older,2004-05,Wyoming,0.056587,0.046833,0.068226
+Marijuana Use in the Past Month,12 or Older,2005-06,Alabama,0.047454,0.038378,0.058545
+Marijuana Use in the Past Month,12 or Older,2005-06,Alaska,0.089263,0.075381,0.105409
+Marijuana Use in the Past Month,12 or Older,2005-06,Arizona,0.051879,0.042575,0.063083
+Marijuana Use in the Past Month,12 or Older,2005-06,Arkansas,0.057274,0.047124,0.069451
+Marijuana Use in the Past Month,12 or Older,2005-06,California,0.06681,0.060402,0.073845
+Marijuana Use in the Past Month,12 or Older,2005-06,Colorado,0.077573,0.065206,0.092054
+Marijuana Use in the Past Month,12 or Older,2005-06,Connecticut,0.075973,0.063834,0.090198
+Marijuana Use in the Past Month,12 or Older,2005-06,Delaware,0.059107,0.049492,0.070452
+Marijuana Use in the Past Month,12 or Older,2005-06,District of Columbia,0.084093,0.071503,0.098665
+Marijuana Use in the Past Month,12 or Older,2005-06,Florida,0.056803,0.051035,0.063181
+Marijuana Use in the Past Month,12 or Older,2005-06,Georgia,0.058357,0.047652,0.071287
+Marijuana Use in the Past Month,12 or Older,2005-06,Hawaii,0.055832,0.045119,0.068905
+Marijuana Use in the Past Month,12 or Older,2005-06,Idaho,0.053031,0.043729,0.064179
+Marijuana Use in the Past Month,12 or Older,2005-06,Illinois,0.05378,0.048425,0.059689
+Marijuana Use in the Past Month,12 or Older,2005-06,Indiana,0.055074,0.046181,0.065562
+Marijuana Use in the Past Month,12 or Older,2005-06,Iowa,0.046399,0.038063,0.056454
+Marijuana Use in the Past Month,12 or Older,2005-06,Kansas,0.05819,0.048247,0.070031
+Marijuana Use in the Past Month,12 or Older,2005-06,Kentucky,0.049562,0.040601,0.060376
+Marijuana Use in the Past Month,12 or Older,2005-06,Louisiana,0.055447,0.045888,0.066856
+Marijuana Use in the Past Month,12 or Older,2005-06,Maine,0.091441,0.078627,0.106103
+Marijuana Use in the Past Month,12 or Older,2005-06,Maryland,0.0476,0.039092,0.057848
+Marijuana Use in the Past Month,12 or Older,2005-06,Massachusetts,0.080502,0.068766,0.094038
+Marijuana Use in the Past Month,12 or Older,2005-06,Michigan,0.064373,0.058534,0.07075
+Marijuana Use in the Past Month,12 or Older,2005-06,Minnesota,0.071633,0.059449,0.086087
+Marijuana Use in the Past Month,12 or Older,2005-06,Mississippi,0.05071,0.04164,0.061629
+Marijuana Use in the Past Month,12 or Older,2005-06,Missouri,0.054213,0.04483,0.065425
+Marijuana Use in the Past Month,12 or Older,2005-06,Montana,0.09402,0.079996,0.110208
+Marijuana Use in the Past Month,12 or Older,2005-06,Nebraska,0.052065,0.042975,0.062951
+Marijuana Use in the Past Month,12 or Older,2005-06,Nevada,0.067687,0.055991,0.081615
+Marijuana Use in the Past Month,12 or Older,2005-06,New Hampshire,0.077335,0.065419,0.09121
+Marijuana Use in the Past Month,12 or Older,2005-06,New Jersey,0.052143,0.042935,0.063195
+Marijuana Use in the Past Month,12 or Older,2005-06,New Mexico,0.061763,0.051394,0.07406
+Marijuana Use in the Past Month,12 or Older,2005-06,New York,0.071224,0.064807,0.078223
+Marijuana Use in the Past Month,12 or Older,2005-06,North Carolina,0.056107,0.046719,0.067248
+Marijuana Use in the Past Month,12 or Older,2005-06,North Dakota,0.043114,0.034804,0.053299
+Marijuana Use in the Past Month,12 or Older,2005-06,Ohio,0.061138,0.055246,0.067613
+Marijuana Use in the Past Month,12 or Older,2005-06,Oklahoma,0.052564,0.042724,0.064518
+Marijuana Use in the Past Month,12 or Older,2005-06,Oregon,0.078517,0.066168,0.092941
+Marijuana Use in the Past Month,12 or Older,2005-06,Pennsylvania,0.059626,0.053653,0.066217
+Marijuana Use in the Past Month,12 or Older,2005-06,Rhode Island,0.093308,0.080334,0.10813
+Marijuana Use in the Past Month,12 or Older,2005-06,South Carolina,0.054619,0.045213,0.065846
+Marijuana Use in the Past Month,12 or Older,2005-06,South Dakota,0.052393,0.043123,0.063523
+Marijuana Use in the Past Month,12 or Older,2005-06,Tennessee,0.060571,0.050167,0.072967
+Marijuana Use in the Past Month,12 or Older,2005-06,Texas,0.0434,0.038791,0.048528
+Marijuana Use in the Past Month,12 or Older,2005-06,Utah,0.042848,0.034502,0.053101
+Marijuana Use in the Past Month,12 or Older,2005-06,Vermont,0.098575,0.084633,0.114527
+Marijuana Use in the Past Month,12 or Older,2005-06,Virginia,0.055278,0.045662,0.066777
+Marijuana Use in the Past Month,12 or Older,2005-06,Washington,0.081444,0.068624,0.096411
+Marijuana Use in the Past Month,12 or Older,2005-06,West Virginia,0.060216,0.050433,0.071753
+Marijuana Use in the Past Month,12 or Older,2005-06,Wisconsin,0.055834,0.046421,0.067021
+Marijuana Use in the Past Month,12 or Older,2005-06,Wyoming,0.068427,0.057387,0.081407
+Marijuana Use in the Past Month,12 or Older,2006-07,Alabama,0.044656,0.03623,0.054929
+Marijuana Use in the Past Month,12 or Older,2006-07,Alaska,0.080183,0.066399,0.096533
+Marijuana Use in the Past Month,12 or Older,2006-07,Arizona,0.053701,0.044064,0.065303
+Marijuana Use in the Past Month,12 or Older,2006-07,Arkansas,0.058305,0.048168,0.070418
+Marijuana Use in the Past Month,12 or Older,2006-07,California,0.065668,0.05945,0.072486
+Marijuana Use in the Past Month,12 or Older,2006-07,Colorado,0.081342,0.068565,0.096255
+Marijuana Use in the Past Month,12 or Older,2006-07,Connecticut,0.062126,0.052067,0.073978
+Marijuana Use in the Past Month,12 or Older,2006-07,Delaware,0.062699,0.052306,0.074993
+Marijuana Use in the Past Month,12 or Older,2006-07,District of Columbia,0.096755,0.082719,0.112879
+Marijuana Use in the Past Month,12 or Older,2006-07,Florida,0.055515,0.049793,0.061852
+Marijuana Use in the Past Month,12 or Older,2006-07,Georgia,0.056305,0.045976,0.068786
+Marijuana Use in the Past Month,12 or Older,2006-07,Hawaii,0.055034,0.044948,0.067225
+Marijuana Use in the Past Month,12 or Older,2006-07,Idaho,0.052855,0.043868,0.06356
+Marijuana Use in the Past Month,12 or Older,2006-07,Illinois,0.054471,0.049153,0.060328
+Marijuana Use in the Past Month,12 or Older,2006-07,Indiana,0.059986,0.050296,0.071403
+Marijuana Use in the Past Month,12 or Older,2006-07,Iowa,0.038179,0.03098,0.046968
+Marijuana Use in the Past Month,12 or Older,2006-07,Kansas,0.055833,0.046217,0.067309
+Marijuana Use in the Past Month,12 or Older,2006-07,Kentucky,0.05701,0.047647,0.068081
+Marijuana Use in the Past Month,12 or Older,2006-07,Louisiana,0.054477,0.044849,0.066029
+Marijuana Use in the Past Month,12 or Older,2006-07,Maine,0.083483,0.070735,0.098285
+Marijuana Use in the Past Month,12 or Older,2006-07,Maryland,0.049999,0.041498,0.060132
+Marijuana Use in the Past Month,12 or Older,2006-07,Massachusetts,0.079176,0.066839,0.093561
+Marijuana Use in the Past Month,12 or Older,2006-07,Michigan,0.06993,0.063568,0.076876
+Marijuana Use in the Past Month,12 or Older,2006-07,Minnesota,0.072555,0.060659,0.086568
+Marijuana Use in the Past Month,12 or Older,2006-07,Mississippi,0.046526,0.037547,0.057523
+Marijuana Use in the Past Month,12 or Older,2006-07,Missouri,0.055288,0.045467,0.067081
+Marijuana Use in the Past Month,12 or Older,2006-07,Montana,0.087027,0.074657,0.101221
+Marijuana Use in the Past Month,12 or Older,2006-07,Nebraska,0.050145,0.041059,0.061112
+Marijuana Use in the Past Month,12 or Older,2006-07,Nevada,0.05888,0.047613,0.07261
+Marijuana Use in the Past Month,12 or Older,2006-07,New Hampshire,0.082442,0.069931,0.096956
+Marijuana Use in the Past Month,12 or Older,2006-07,New Jersey,0.047005,0.038062,0.057921
+Marijuana Use in the Past Month,12 or Older,2006-07,New Mexico,0.070256,0.0587,0.083884
+Marijuana Use in the Past Month,12 or Older,2006-07,New York,0.069607,0.063038,0.076804
+Marijuana Use in the Past Month,12 or Older,2006-07,North Carolina,0.053079,0.043857,0.06411
+Marijuana Use in the Past Month,12 or Older,2006-07,North Dakota,0.049721,0.040969,0.060225
+Marijuana Use in the Past Month,12 or Older,2006-07,Ohio,0.060325,0.05459,0.066621
+Marijuana Use in the Past Month,12 or Older,2006-07,Oklahoma,0.05202,0.041511,0.06501
+Marijuana Use in the Past Month,12 or Older,2006-07,Oregon,0.074875,0.062693,0.089199
+Marijuana Use in the Past Month,12 or Older,2006-07,Pennsylvania,0.053602,0.04807,0.059731
+Marijuana Use in the Past Month,12 or Older,2006-07,Rhode Island,0.104409,0.090208,0.12055
+Marijuana Use in the Past Month,12 or Older,2006-07,South Carolina,0.04808,0.039368,0.058604
+Marijuana Use in the Past Month,12 or Older,2006-07,South Dakota,0.053916,0.044445,0.065268
+Marijuana Use in the Past Month,12 or Older,2006-07,Tennessee,0.056306,0.046935,0.067415
+Marijuana Use in the Past Month,12 or Older,2006-07,Texas,0.042445,0.037801,0.047631
+Marijuana Use in the Past Month,12 or Older,2006-07,Utah,0.041494,0.033629,0.051101
+Marijuana Use in the Past Month,12 or Older,2006-07,Vermont,0.100378,0.086294,0.116467
+Marijuana Use in the Past Month,12 or Older,2006-07,Virginia,0.065718,0.055358,0.077857
+Marijuana Use in the Past Month,12 or Older,2006-07,Washington,0.074945,0.063119,0.088777
+Marijuana Use in the Past Month,12 or Older,2006-07,West Virginia,0.051874,0.043179,0.062204
+Marijuana Use in the Past Month,12 or Older,2006-07,Wisconsin,0.059209,0.049613,0.070522
+Marijuana Use in the Past Month,12 or Older,2006-07,Wyoming,0.068088,0.057377,0.080628
+Marijuana Use in the Past Month,12 or Older,2007-08,Alabama,0.045725,0.037193,0.056101
+Marijuana Use in the Past Month,12 or Older,2007-08,Alaska,0.091252,0.075384,0.110062
+Marijuana Use in the Past Month,12 or Older,2007-08,Arizona,0.058098,0.047086,0.071493
+Marijuana Use in the Past Month,12 or Older,2007-08,Arkansas,0.054995,0.045115,0.066886
+Marijuana Use in the Past Month,12 or Older,2007-08,California,0.0666,0.059824,0.074083
+Marijuana Use in the Past Month,12 or Older,2007-08,Colorado,0.092082,0.076931,0.10986
+Marijuana Use in the Past Month,12 or Older,2007-08,Connecticut,0.064735,0.054529,0.076698
+Marijuana Use in the Past Month,12 or Older,2007-08,Delaware,0.07108,0.058773,0.08573
+Marijuana Use in the Past Month,12 or Older,2007-08,District of Columbia,0.096571,0.081221,0.11446
+Marijuana Use in the Past Month,12 or Older,2007-08,Florida,0.056192,0.049755,0.063406
+Marijuana Use in the Past Month,12 or Older,2007-08,Georgia,0.054431,0.044215,0.066841
+Marijuana Use in the Past Month,12 or Older,2007-08,Hawaii,0.066995,0.053867,0.083041
+Marijuana Use in the Past Month,12 or Older,2007-08,Idaho,0.057411,0.047265,0.069575
+Marijuana Use in the Past Month,12 or Older,2007-08,Illinois,0.054161,0.048349,0.060628
+Marijuana Use in the Past Month,12 or Older,2007-08,Indiana,0.062333,0.051912,0.074682
+Marijuana Use in the Past Month,12 or Older,2007-08,Iowa,0.032797,0.025771,0.041658
+Marijuana Use in the Past Month,12 or Older,2007-08,Kansas,0.050991,0.040994,0.063265
+Marijuana Use in the Past Month,12 or Older,2007-08,Kentucky,0.056581,0.046618,0.06852
+Marijuana Use in the Past Month,12 or Older,2007-08,Louisiana,0.050151,0.04087,0.061405
+Marijuana Use in the Past Month,12 or Older,2007-08,Maine,0.081638,0.06864,0.096841
+Marijuana Use in the Past Month,12 or Older,2007-08,Maryland,0.054063,0.044155,0.06604
+Marijuana Use in the Past Month,12 or Older,2007-08,Massachusetts,0.070748,0.0589,0.084764
+Marijuana Use in the Past Month,12 or Older,2007-08,Michigan,0.070155,0.063497,0.077454
+Marijuana Use in the Past Month,12 or Older,2007-08,Minnesota,0.071093,0.058944,0.085519
+Marijuana Use in the Past Month,12 or Older,2007-08,Mississippi,0.043907,0.035243,0.054579
+Marijuana Use in the Past Month,12 or Older,2007-08,Missouri,0.054039,0.044315,0.06575
+Marijuana Use in the Past Month,12 or Older,2007-08,Montana,0.083281,0.069867,0.098997
+Marijuana Use in the Past Month,12 or Older,2007-08,Nebraska,0.049501,0.040343,0.060605
+Marijuana Use in the Past Month,12 or Older,2007-08,Nevada,0.062282,0.050152,0.077109
+Marijuana Use in the Past Month,12 or Older,2007-08,New Hampshire,0.09035,0.077268,0.105394
+Marijuana Use in the Past Month,12 or Older,2007-08,New Jersey,0.048503,0.039418,0.059551
+Marijuana Use in the Past Month,12 or Older,2007-08,New Mexico,0.061395,0.050326,0.074707
+Marijuana Use in the Past Month,12 or Older,2007-08,New York,0.069441,0.062855,0.07666
+Marijuana Use in the Past Month,12 or Older,2007-08,North Carolina,0.060203,0.049622,0.072867
+Marijuana Use in the Past Month,12 or Older,2007-08,North Dakota,0.050119,0.04084,0.06137
+Marijuana Use in the Past Month,12 or Older,2007-08,Ohio,0.058596,0.052605,0.065222
+Marijuana Use in the Past Month,12 or Older,2007-08,Oklahoma,0.048091,0.038328,0.060184
+Marijuana Use in the Past Month,12 or Older,2007-08,Oregon,0.085172,0.07076,0.102197
+Marijuana Use in the Past Month,12 or Older,2007-08,Pennsylvania,0.051744,0.046078,0.058065
+Marijuana Use in the Past Month,12 or Older,2007-08,Rhode Island,0.108787,0.093315,0.126466
+Marijuana Use in the Past Month,12 or Older,2007-08,South Carolina,0.049899,0.040447,0.061419
+Marijuana Use in the Past Month,12 or Older,2007-08,South Dakota,0.052562,0.042666,0.0646
+Marijuana Use in the Past Month,12 or Older,2007-08,Tennessee,0.058296,0.048042,0.070576
+Marijuana Use in the Past Month,12 or Older,2007-08,Texas,0.044274,0.039202,0.049969
+Marijuana Use in the Past Month,12 or Older,2007-08,Utah,0.042832,0.03431,0.053353
+Marijuana Use in the Past Month,12 or Older,2007-08,Vermont,0.10169,0.086659,0.118989
+Marijuana Use in the Past Month,12 or Older,2007-08,Virginia,0.057678,0.047705,0.069584
+Marijuana Use in the Past Month,12 or Older,2007-08,Washington,0.073371,0.060498,0.088725
+Marijuana Use in the Past Month,12 or Older,2007-08,West Virginia,0.048048,0.039061,0.058977
+Marijuana Use in the Past Month,12 or Older,2007-08,Wisconsin,0.063953,0.053273,0.076601
+Marijuana Use in the Past Month,12 or Older,2007-08,Wyoming,0.055813,0.046124,0.067393
+Marijuana Use in the Past Month,12 or Older,2008-09,Alabama,0.050391,0.041515,0.061044
+Marijuana Use in the Past Month,12 or Older,2008-09,Alaska,0.115168,0.097479,0.135586
+Marijuana Use in the Past Month,12 or Older,2008-09,Arizona,0.066983,0.054088,0.082682
+Marijuana Use in the Past Month,12 or Older,2008-09,Arkansas,0.061109,0.05031,0.074047
+Marijuana Use in the Past Month,12 or Older,2008-09,California,0.076748,0.06939,0.084815
+Marijuana Use in the Past Month,12 or Older,2008-09,Colorado,0.097656,0.081507,0.116598
+Marijuana Use in the Past Month,12 or Older,2008-09,Connecticut,0.072593,0.059912,0.087708
+Marijuana Use in the Past Month,12 or Older,2008-09,Delaware,0.069746,0.057818,0.083917
+Marijuana Use in the Past Month,12 or Older,2008-09,District of Columbia,0.084637,0.070742,0.100965
+Marijuana Use in the Past Month,12 or Older,2008-09,Florida,0.058015,0.051297,0.065552
+Marijuana Use in the Past Month,12 or Older,2008-09,Georgia,0.060567,0.049719,0.073599
+Marijuana Use in the Past Month,12 or Older,2008-09,Hawaii,0.084645,0.069081,0.103326
+Marijuana Use in the Past Month,12 or Older,2008-09,Idaho,0.058869,0.048322,0.071545
+Marijuana Use in the Past Month,12 or Older,2008-09,Illinois,0.059101,0.053146,0.065678
+Marijuana Use in the Past Month,12 or Older,2008-09,Indiana,0.060802,0.05029,0.073341
+Marijuana Use in the Past Month,12 or Older,2008-09,Iowa,0.04484,0.036372,0.055167
+Marijuana Use in the Past Month,12 or Older,2008-09,Kansas,0.050182,0.040183,0.062507
+Marijuana Use in the Past Month,12 or Older,2008-09,Kentucky,0.048068,0.038879,0.059294
+Marijuana Use in the Past Month,12 or Older,2008-09,Louisiana,0.051424,0.041915,0.062949
+Marijuana Use in the Past Month,12 or Older,2008-09,Maine,0.098116,0.082375,0.116484
+Marijuana Use in the Past Month,12 or Older,2008-09,Maryland,0.05655,0.045338,0.070332
+Marijuana Use in the Past Month,12 or Older,2008-09,Massachusetts,0.087362,0.074065,0.102781
+Marijuana Use in the Past Month,12 or Older,2008-09,Michigan,0.075189,0.067967,0.083109
+Marijuana Use in the Past Month,12 or Older,2008-09,Minnesota,0.059788,0.049032,0.072723
+Marijuana Use in the Past Month,12 or Older,2008-09,Mississippi,0.045363,0.036284,0.056581
+Marijuana Use in the Past Month,12 or Older,2008-09,Missouri,0.059366,0.048405,0.072619
+Marijuana Use in the Past Month,12 or Older,2008-09,Montana,0.081226,0.068018,0.096734
+Marijuana Use in the Past Month,12 or Older,2008-09,Nebraska,0.053633,0.044121,0.065057
+Marijuana Use in the Past Month,12 or Older,2008-09,Nevada,0.069962,0.057297,0.085172
+Marijuana Use in the Past Month,12 or Older,2008-09,New Hampshire,0.096156,0.081622,0.112959
+Marijuana Use in the Past Month,12 or Older,2008-09,New Jersey,0.050403,0.041228,0.061488
+Marijuana Use in the Past Month,12 or Older,2008-09,New Mexico,0.06541,0.053688,0.079475
+Marijuana Use in the Past Month,12 or Older,2008-09,New York,0.077259,0.070112,0.085068
+Marijuana Use in the Past Month,12 or Older,2008-09,North Carolina,0.063024,0.051838,0.076429
+Marijuana Use in the Past Month,12 or Older,2008-09,North Dakota,0.046747,0.037742,0.057771
+Marijuana Use in the Past Month,12 or Older,2008-09,Ohio,0.059573,0.053568,0.066204
+Marijuana Use in the Past Month,12 or Older,2008-09,Oklahoma,0.056031,0.04453,0.070283
+Marijuana Use in the Past Month,12 or Older,2008-09,Oregon,0.092931,0.07799,0.110392
+Marijuana Use in the Past Month,12 or Older,2008-09,Pennsylvania,0.058135,0.051891,0.065079
+Marijuana Use in the Past Month,12 or Older,2008-09,Rhode Island,0.100366,0.084505,0.118818
+Marijuana Use in the Past Month,12 or Older,2008-09,South Carolina,0.059112,0.048077,0.072487
+Marijuana Use in the Past Month,12 or Older,2008-09,South Dakota,0.05142,0.041731,0.06321
+Marijuana Use in the Past Month,12 or Older,2008-09,Tennessee,0.054184,0.044443,0.065914
+Marijuana Use in the Past Month,12 or Older,2008-09,Texas,0.047421,0.042451,0.052942
+Marijuana Use in the Past Month,12 or Older,2008-09,Utah,0.036035,0.028351,0.045704
+Marijuana Use in the Past Month,12 or Older,2008-09,Vermont,0.108475,0.092554,0.126753
+Marijuana Use in the Past Month,12 or Older,2008-09,Virginia,0.053335,0.043467,0.065291
+Marijuana Use in the Past Month,12 or Older,2008-09,Washington,0.072062,0.059226,0.087421
+Marijuana Use in the Past Month,12 or Older,2008-09,West Virginia,0.054965,0.045155,0.066756
+Marijuana Use in the Past Month,12 or Older,2008-09,Wisconsin,0.061935,0.051277,0.074634
+Marijuana Use in the Past Month,12 or Older,2008-09,Wyoming,0.05419,0.04437,0.066032
+Marijuana Use in the Past Month,12 or Older,2009-10,Alabama,0.049392,0.039913,0.06098
+Marijuana Use in the Past Month,12 or Older,2009-10,Alaska,0.118425,0.098929,0.141161
+Marijuana Use in the Past Month,12 or Older,2009-10,Arizona,0.065164,0.052531,0.080575
+Marijuana Use in the Past Month,12 or Older,2009-10,Arkansas,0.054657,0.044262,0.067321
+Marijuana Use in the Past Month,12 or Older,2009-10,California,0.082337,0.074647,0.090741
+Marijuana Use in the Past Month,12 or Older,2009-10,Colorado,0.112892,0.095472,0.133023
+Marijuana Use in the Past Month,12 or Older,2009-10,Connecticut,0.076873,0.06375,0.092432
+Marijuana Use in the Past Month,12 or Older,2009-10,Delaware,0.069787,0.057519,0.084436
+Marijuana Use in the Past Month,12 or Older,2009-10,District of Columbia,0.10038,0.084674,0.118623
+Marijuana Use in the Past Month,12 or Older,2009-10,Florida,0.060971,0.05445,0.068216
+Marijuana Use in the Past Month,12 or Older,2009-10,Georgia,0.054974,0.044576,0.067625
+Marijuana Use in the Past Month,12 or Older,2009-10,Hawaii,0.078773,0.063721,0.097011
+Marijuana Use in the Past Month,12 or Older,2009-10,Idaho,0.072854,0.059627,0.088739
+Marijuana Use in the Past Month,12 or Older,2009-10,Illinois,0.064983,0.059087,0.071422
+Marijuana Use in the Past Month,12 or Older,2009-10,Indiana,0.06095,0.050518,0.073371
+Marijuana Use in the Past Month,12 or Older,2009-10,Iowa,0.049221,0.039945,0.060515
+Marijuana Use in the Past Month,12 or Older,2009-10,Kansas,0.053296,0.043304,0.065437
+Marijuana Use in the Past Month,12 or Older,2009-10,Kentucky,0.045782,0.037038,0.056469
+Marijuana Use in the Past Month,12 or Older,2009-10,Louisiana,0.051925,0.042378,0.06348
+Marijuana Use in the Past Month,12 or Older,2009-10,Maine,0.097692,0.081663,0.116468
+Marijuana Use in the Past Month,12 or Older,2009-10,Maryland,0.061113,0.049805,0.074786
+Marijuana Use in the Past Month,12 or Older,2009-10,Massachusetts,0.101082,0.087042,0.117098
+Marijuana Use in the Past Month,12 or Older,2009-10,Michigan,0.084274,0.076388,0.092891
+Marijuana Use in the Past Month,12 or Older,2009-10,Minnesota,0.059284,0.048723,0.071962
+Marijuana Use in the Past Month,12 or Older,2009-10,Mississippi,0.04693,0.037767,0.05818
+Marijuana Use in the Past Month,12 or Older,2009-10,Missouri,0.061286,0.049977,0.074951
+Marijuana Use in the Past Month,12 or Older,2009-10,Montana,0.092354,0.078048,0.108971
+Marijuana Use in the Past Month,12 or Older,2009-10,Nebraska,0.05877,0.048299,0.071342
+Marijuana Use in the Past Month,12 or Older,2009-10,Nevada,0.070131,0.057453,0.085353
+Marijuana Use in the Past Month,12 or Older,2009-10,New Hampshire,0.099637,0.083763,0.118133
+Marijuana Use in the Past Month,12 or Older,2009-10,New Jersey,0.056638,0.046654,0.068605
+Marijuana Use in the Past Month,12 or Older,2009-10,New Mexico,0.077266,0.064047,0.092943
+Marijuana Use in the Past Month,12 or Older,2009-10,New York,0.077462,0.070209,0.085396
+Marijuana Use in the Past Month,12 or Older,2009-10,North Carolina,0.070691,0.058402,0.08533
+Marijuana Use in the Past Month,12 or Older,2009-10,North Dakota,0.040957,0.032971,0.050775
+Marijuana Use in the Past Month,12 or Older,2009-10,Ohio,0.060254,0.05445,0.066633
+Marijuana Use in the Past Month,12 or Older,2009-10,Oklahoma,0.069026,0.055725,0.085216
+Marijuana Use in the Past Month,12 or Older,2009-10,Oregon,0.102143,0.08585,0.121118
+Marijuana Use in the Past Month,12 or Older,2009-10,Pennsylvania,0.061681,0.055271,0.068779
+Marijuana Use in the Past Month,12 or Older,2009-10,Rhode Island,0.107986,0.091594,0.126902
+Marijuana Use in the Past Month,12 or Older,2009-10,South Carolina,0.059889,0.048895,0.073165
+Marijuana Use in the Past Month,12 or Older,2009-10,South Dakota,0.049233,0.039298,0.061519
+Marijuana Use in the Past Month,12 or Older,2009-10,Tennessee,0.046708,0.03783,0.057544
+Marijuana Use in the Past Month,12 or Older,2009-10,Texas,0.053999,0.048441,0.060155
+Marijuana Use in the Past Month,12 or Older,2009-10,Utah,0.031137,0.024296,0.039825
+Marijuana Use in the Past Month,12 or Older,2009-10,Vermont,0.115745,0.098887,0.135047
+Marijuana Use in the Past Month,12 or Older,2009-10,Virginia,0.058524,0.048361,0.070665
+Marijuana Use in the Past Month,12 or Older,2009-10,Washington,0.088627,0.074613,0.104973
+Marijuana Use in the Past Month,12 or Older,2009-10,West Virginia,0.059938,0.048958,0.073192
+Marijuana Use in the Past Month,12 or Older,2009-10,Wisconsin,0.056749,0.046309,0.06937
+Marijuana Use in the Past Month,12 or Older,2009-10,Wyoming,0.053705,0.04378,0.065725
+Marijuana Use in the Past Month,12 or Older,2010-11,Alabama,0.051962,0.042605,0.063237
+Marijuana Use in the Past Month,12 or Older,2010-11,Alaska,0.11429,0.096384,0.135026
+Marijuana Use in the Past Month,12 or Older,2010-11,Arizona,0.070177,0.056879,0.0863
+Marijuana Use in the Past Month,12 or Older,2010-11,Arkansas,0.050892,0.040861,0.063223
+Marijuana Use in the Past Month,12 or Older,2010-11,California,0.086071,0.078465,0.094339
+Marijuana Use in the Past Month,12 or Older,2010-11,Colorado,0.109815,0.093369,0.128745
+Marijuana Use in the Past Month,12 or Older,2010-11,Connecticut,0.072485,0.060236,0.086994
+Marijuana Use in the Past Month,12 or Older,2010-11,Delaware,0.070105,0.058898,0.083256
+Marijuana Use in the Past Month,12 or Older,2010-11,District of Columbia,0.111473,0.094264,0.131368
+Marijuana Use in the Past Month,12 or Older,2010-11,Florida,0.06364,0.056985,0.071013
+Marijuana Use in the Past Month,12 or Older,2010-11,Georgia,0.049706,0.040376,0.061055
+Marijuana Use in the Past Month,12 or Older,2010-11,Hawaii,0.069317,0.056743,0.084427
+Marijuana Use in the Past Month,12 or Older,2010-11,Idaho,0.07134,0.058677,0.086484
+Marijuana Use in the Past Month,12 or Older,2010-11,Illinois,0.068676,0.062245,0.075718
+Marijuana Use in the Past Month,12 or Older,2010-11,Indiana,0.065211,0.053826,0.078803
+Marijuana Use in the Past Month,12 or Older,2010-11,Iowa,0.051765,0.04229,0.063223
+Marijuana Use in the Past Month,12 or Older,2010-11,Kansas,0.054406,0.044007,0.067089
+Marijuana Use in the Past Month,12 or Older,2010-11,Kentucky,0.050806,0.041496,0.062068
+Marijuana Use in the Past Month,12 or Older,2010-11,Louisiana,0.048425,0.039674,0.058989
+Marijuana Use in the Past Month,12 or Older,2010-11,Maine,0.080466,0.067623,0.095498
+Marijuana Use in the Past Month,12 or Older,2010-11,Maryland,0.055512,0.04555,0.0675
+Marijuana Use in the Past Month,12 or Older,2010-11,Massachusetts,0.099609,0.085186,0.116164
+Marijuana Use in the Past Month,12 or Older,2010-11,Michigan,0.086735,0.078944,0.095215
+Marijuana Use in the Past Month,12 or Older,2010-11,Minnesota,0.064421,0.053629,0.077208
+Marijuana Use in the Past Month,12 or Older,2010-11,Mississippi,0.059134,0.048739,0.071579
+Marijuana Use in the Past Month,12 or Older,2010-11,Missouri,0.060412,0.04987,0.073011
+Marijuana Use in the Past Month,12 or Older,2010-11,Montana,0.103221,0.088617,0.119914
+Marijuana Use in the Past Month,12 or Older,2010-11,Nebraska,0.055691,0.045331,0.06825
+Marijuana Use in the Past Month,12 or Older,2010-11,Nevada,0.076406,0.061558,0.094474
+Marijuana Use in the Past Month,12 or Older,2010-11,New Hampshire,0.08661,0.073393,0.101945
+Marijuana Use in the Past Month,12 or Older,2010-11,New Jersey,0.064023,0.053585,0.07633
+Marijuana Use in the Past Month,12 or Older,2010-11,New Mexico,0.082886,0.069506,0.098569
+Marijuana Use in the Past Month,12 or Older,2010-11,New York,0.073987,0.067184,0.081418
+Marijuana Use in the Past Month,12 or Older,2010-11,North Carolina,0.073449,0.061053,0.088126
+Marijuana Use in the Past Month,12 or Older,2010-11,North Dakota,0.045384,0.036453,0.056375
+Marijuana Use in the Past Month,12 or Older,2010-11,Ohio,0.064666,0.058403,0.07155
+Marijuana Use in the Past Month,12 or Older,2010-11,Oklahoma,0.06576,0.053483,0.080613
+Marijuana Use in the Past Month,12 or Older,2010-11,Oregon,0.109751,0.093082,0.128981
+Marijuana Use in the Past Month,12 or Older,2010-11,Pennsylvania,0.061229,0.055075,0.068021
+Marijuana Use in the Past Month,12 or Older,2010-11,Rhode Island,0.119311,0.102453,0.138514
+Marijuana Use in the Past Month,12 or Older,2010-11,South Carolina,0.059356,0.048972,0.071776
+Marijuana Use in the Past Month,12 or Older,2010-11,South Dakota,0.05048,0.040016,0.063499
+Marijuana Use in the Past Month,12 or Older,2010-11,Tennessee,0.054368,0.044421,0.066389
+Marijuana Use in the Past Month,12 or Older,2010-11,Texas,0.054691,0.048954,0.061058
+Marijuana Use in the Past Month,12 or Older,2010-11,Utah,0.03556,0.027762,0.045447
+Marijuana Use in the Past Month,12 or Older,2010-11,Vermont,0.131186,0.113567,0.151074
+Marijuana Use in the Past Month,12 or Older,2010-11,Virginia,0.059273,0.048857,0.071743
+Marijuana Use in the Past Month,12 or Older,2010-11,Washington,0.098846,0.084371,0.115491
+Marijuana Use in the Past Month,12 or Older,2010-11,West Virginia,0.059847,0.049446,0.072271
+Marijuana Use in the Past Month,12 or Older,2010-11,Wisconsin,0.057626,0.046467,0.071263
+Marijuana Use in the Past Month,12 or Older,2010-11,Wyoming,0.051292,0.041294,0.063551
+Marijuana Use in the Past Month,12 or Older,2011-12,Alabama,0.050742,0.041837,0.061421
+Marijuana Use in the Past Month,12 or Older,2011-12,Alaska,0.129651,0.110869,0.151073
+Marijuana Use in the Past Month,12 or Older,2011-12,Arizona,0.072154,0.058775,0.088292
+Marijuana Use in the Past Month,12 or Older,2011-12,Arkansas,0.052963,0.042834,0.065325
+Marijuana Use in the Past Month,12 or Older,2011-12,California,0.090799,0.082732,0.099567
+Marijuana Use in the Past Month,12 or Older,2011-12,Colorado,0.104083,0.088125,0.122542
+Marijuana Use in the Past Month,12 or Older,2011-12,Connecticut,0.084353,0.070572,0.100534
+Marijuana Use in the Past Month,12 or Older,2011-12,Delaware,0.074883,0.062909,0.08892
+Marijuana Use in the Past Month,12 or Older,2011-12,District of Columbia,0.104507,0.089253,0.122019
+Marijuana Use in the Past Month,12 or Older,2011-12,Florida,0.066485,0.059541,0.074174
+Marijuana Use in the Past Month,12 or Older,2011-12,Georgia,0.059603,0.049294,0.071906
+Marijuana Use in the Past Month,12 or Older,2011-12,Hawaii,0.075729,0.062573,0.091381
+Marijuana Use in the Past Month,12 or Older,2011-12,Idaho,0.052906,0.042591,0.065548
+Marijuana Use in the Past Month,12 or Older,2011-12,Illinois,0.070295,0.063417,0.077856
+Marijuana Use in the Past Month,12 or Older,2011-12,Indiana,0.061999,0.050695,0.075623
+Marijuana Use in the Past Month,12 or Older,2011-12,Iowa,0.060999,0.050103,0.074081
+Marijuana Use in the Past Month,12 or Older,2011-12,Kansas,0.04061,0.031863,0.051629
+Marijuana Use in the Past Month,12 or Older,2011-12,Kentucky,0.056306,0.046594,0.067898
+Marijuana Use in the Past Month,12 or Older,2011-12,Louisiana,0.046157,0.038248,0.055607
+Marijuana Use in the Past Month,12 or Older,2011-12,Maine,0.083769,0.069593,0.100519
+Marijuana Use in the Past Month,12 or Older,2011-12,Maryland,0.058147,0.047869,0.07047
+Marijuana Use in the Past Month,12 or Older,2011-12,Massachusetts,0.093657,0.079493,0.110044
+Marijuana Use in the Past Month,12 or Older,2011-12,Michigan,0.088871,0.081344,0.09702
+Marijuana Use in the Past Month,12 or Older,2011-12,Minnesota,0.062962,0.0515,0.076767
+Marijuana Use in the Past Month,12 or Older,2011-12,Mississippi,0.057967,0.047795,0.070144
+Marijuana Use in the Past Month,12 or Older,2011-12,Missouri,0.05944,0.04865,0.072442
+Marijuana Use in the Past Month,12 or Older,2011-12,Montana,0.104533,0.08914,0.122228
+Marijuana Use in the Past Month,12 or Older,2011-12,Nebraska,0.055061,0.045083,0.067093
+Marijuana Use in the Past Month,12 or Older,2011-12,Nevada,0.083618,0.067165,0.103654
+Marijuana Use in the Past Month,12 or Older,2011-12,New Hampshire,0.083703,0.070987,0.098455
+Marijuana Use in the Past Month,12 or Older,2011-12,New Jersey,0.060468,0.049069,0.074309
+Marijuana Use in the Past Month,12 or Older,2011-12,New Mexico,0.0914,0.076597,0.108727
+Marijuana Use in the Past Month,12 or Older,2011-12,New York,0.082427,0.074385,0.091253
+Marijuana Use in the Past Month,12 or Older,2011-12,North Carolina,0.064935,0.053673,0.078365
+Marijuana Use in the Past Month,12 or Older,2011-12,North Dakota,0.051471,0.041626,0.06349
+Marijuana Use in the Past Month,12 or Older,2011-12,Ohio,0.073659,0.066649,0.081342
+Marijuana Use in the Past Month,12 or Older,2011-12,Oklahoma,0.060441,0.049026,0.074305
+Marijuana Use in the Past Month,12 or Older,2011-12,Oregon,0.121589,0.103624,0.142173
+Marijuana Use in the Past Month,12 or Older,2011-12,Pennsylvania,0.061802,0.055314,0.068995
+Marijuana Use in the Past Month,12 or Older,2011-12,Rhode Island,0.129971,0.111872,0.150501
+Marijuana Use in the Past Month,12 or Older,2011-12,South Carolina,0.072033,0.059828,0.086499
+Marijuana Use in the Past Month,12 or Older,2011-12,South Dakota,0.057865,0.046905,0.071194
+Marijuana Use in the Past Month,12 or Older,2011-12,Tennessee,0.054056,0.044129,0.066062
+Marijuana Use in the Past Month,12 or Older,2011-12,Texas,0.05109,0.045818,0.056933
+Marijuana Use in the Past Month,12 or Older,2011-12,Utah,0.044101,0.035092,0.055289
+Marijuana Use in the Past Month,12 or Older,2011-12,Vermont,0.128641,0.1114,0.148106
+Marijuana Use in the Past Month,12 or Older,2011-12,Virginia,0.055384,0.045443,0.067344
+Marijuana Use in the Past Month,12 or Older,2011-12,Washington,0.102099,0.086991,0.119488
+Marijuana Use in the Past Month,12 or Older,2011-12,West Virginia,0.052669,0.043266,0.063978
+Marijuana Use in the Past Month,12 or Older,2011-12,Wisconsin,0.066948,0.054792,0.081567
+Marijuana Use in the Past Month,12 or Older,2011-12,Wyoming,0.056809,0.045864,0.070175
+Marijuana Use in the Past Month,12 or Older,2012-13,Alabama,0.049455,0.039795,0.061311
+Marijuana Use in the Past Month,12 or Older,2012-13,Alaska,0.118923,0.100165,0.140643
+Marijuana Use in the Past Month,12 or Older,2012-13,Arizona,0.078816,0.064563,0.095892
+Marijuana Use in the Past Month,12 or Older,2012-13,Arkansas,0.056923,0.045384,0.071178
+Marijuana Use in the Past Month,12 or Older,2012-13,California,0.089379,0.081119,0.098389
+Marijuana Use in the Past Month,12 or Older,2012-13,Colorado,0.126995,0.108619,0.147964
+Marijuana Use in the Past Month,12 or Older,2012-13,Connecticut,0.089514,0.075129,0.106337
+Marijuana Use in the Past Month,12 or Older,2012-13,Delaware,0.079714,0.06695,0.094666
+Marijuana Use in the Past Month,12 or Older,2012-13,District of Columbia,0.120111,0.102608,0.140133
+Marijuana Use in the Past Month,12 or Older,2012-13,Florida,0.069957,0.062722,0.077956
+Marijuana Use in the Past Month,12 or Older,2012-13,Georgia,0.077091,0.063076,0.093909
+Marijuana Use in the Past Month,12 or Older,2012-13,Hawaii,0.086132,0.071265,0.103754
+Marijuana Use in the Past Month,12 or Older,2012-13,Idaho,0.055319,0.044582,0.068457
+Marijuana Use in the Past Month,12 or Older,2012-13,Illinois,0.069537,0.062676,0.077088
+Marijuana Use in the Past Month,12 or Older,2012-13,Indiana,0.06275,0.051713,0.075953
+Marijuana Use in the Past Month,12 or Older,2012-13,Iowa,0.059766,0.048455,0.073514
+Marijuana Use in the Past Month,12 or Older,2012-13,Kansas,0.044066,0.035012,0.055327
+Marijuana Use in the Past Month,12 or Older,2012-13,Kentucky,0.053474,0.044008,0.064838
+Marijuana Use in the Past Month,12 or Older,2012-13,Louisiana,0.050685,0.040634,0.063058
+Marijuana Use in the Past Month,12 or Older,2012-13,Maine,0.099473,0.083308,0.11837
+Marijuana Use in the Past Month,12 or Older,2012-13,Maryland,0.069436,0.057508,0.083618
+Marijuana Use in the Past Month,12 or Older,2012-13,Massachusetts,0.098988,0.083629,0.116808
+Marijuana Use in the Past Month,12 or Older,2012-13,Michigan,0.097104,0.08865,0.10627
+Marijuana Use in the Past Month,12 or Older,2012-13,Minnesota,0.06213,0.050449,0.076298
+Marijuana Use in the Past Month,12 or Older,2012-13,Mississippi,0.051025,0.041531,0.062549
+Marijuana Use in the Past Month,12 or Older,2012-13,Missouri,0.070961,0.05895,0.085197
+Marijuana Use in the Past Month,12 or Older,2012-13,Montana,0.103301,0.086838,0.122465
+Marijuana Use in the Past Month,12 or Older,2012-13,Nebraska,0.054677,0.0446,0.066871
+Marijuana Use in the Past Month,12 or Older,2012-13,Nevada,0.079844,0.065266,0.097339
+Marijuana Use in the Past Month,12 or Older,2012-13,New Hampshire,0.097872,0.083836,0.113965
+Marijuana Use in the Past Month,12 or Older,2012-13,New Jersey,0.052103,0.04148,0.06526
+Marijuana Use in the Past Month,12 or Older,2012-13,New Mexico,0.090421,0.074978,0.108671
+Marijuana Use in the Past Month,12 or Older,2012-13,New York,0.082849,0.074893,0.091566
+Marijuana Use in the Past Month,12 or Older,2012-13,North Carolina,0.06166,0.049892,0.075982
+Marijuana Use in the Past Month,12 or Older,2012-13,North Dakota,0.051873,0.042258,0.063532
+Marijuana Use in the Past Month,12 or Older,2012-13,Ohio,0.076023,0.068915,0.083797
+Marijuana Use in the Past Month,12 or Older,2012-13,Oklahoma,0.055637,0.044172,0.069859
+Marijuana Use in the Past Month,12 or Older,2012-13,Oregon,0.119179,0.100605,0.140646
+Marijuana Use in the Past Month,12 or Older,2012-13,Pennsylvania,0.064573,0.058076,0.071741
+Marijuana Use in the Past Month,12 or Older,2012-13,Rhode Island,0.140788,0.121308,0.162816
+Marijuana Use in the Past Month,12 or Older,2012-13,South Carolina,0.068662,0.056073,0.083828
+Marijuana Use in the Past Month,12 or Older,2012-13,South Dakota,0.050276,0.040248,0.062638
+Marijuana Use in the Past Month,12 or Older,2012-13,Tennessee,0.05423,0.043726,0.06708
+Marijuana Use in the Past Month,12 or Older,2012-13,Texas,0.053106,0.047278,0.059608
+Marijuana Use in the Past Month,12 or Older,2012-13,Utah,0.05072,0.040527,0.063307
+Marijuana Use in the Past Month,12 or Older,2012-13,Vermont,0.117588,0.100391,0.137282
+Marijuana Use in the Past Month,12 or Older,2012-13,Virginia,0.062864,0.051182,0.076998
+Marijuana Use in the Past Month,12 or Older,2012-13,Washington,0.122785,0.105838,0.142014
+Marijuana Use in the Past Month,12 or Older,2012-13,West Virginia,0.050664,0.040927,0.062567
+Marijuana Use in the Past Month,12 or Older,2012-13,Wisconsin,0.064898,0.053114,0.079078
+Marijuana Use in the Past Month,12 or Older,2012-13,Wyoming,0.058249,0.046686,0.072459
+Marijuana Use in the Past Month,12 or Older,2013-14,Alabama,0.055683,0.045086,0.068591
+Marijuana Use in the Past Month,12 or Older,2013-14,Alaska,0.118542,0.101436,0.13809
+Marijuana Use in the Past Month,12 or Older,2013-14,Arizona,0.087951,0.073447,0.104995
+Marijuana Use in the Past Month,12 or Older,2013-14,Arkansas,0.067021,0.0554,0.08087
+Marijuana Use in the Past Month,12 or Older,2013-14,California,0.092035,0.084589,0.100064
+Marijuana Use in the Past Month,12 or Older,2013-14,Colorado,0.149266,0.130265,0.170495
+Marijuana Use in the Past Month,12 or Older,2013-14,Connecticut,0.084977,0.0708,0.101683
+Marijuana Use in the Past Month,12 or Older,2013-14,Delaware,0.082261,0.068975,0.097837
+Marijuana Use in the Past Month,12 or Older,2013-14,District of Columbia,0.125989,0.108418,0.145941
+Marijuana Use in the Past Month,12 or Older,2013-14,Florida,0.075825,0.068427,0.08395
+Marijuana Use in the Past Month,12 or Older,2013-14,Georgia,0.077631,0.065017,0.092449
+Marijuana Use in the Past Month,12 or Older,2013-14,Hawaii,0.079016,0.064538,0.096406
+Marijuana Use in the Past Month,12 or Older,2013-14,Idaho,0.063413,0.052632,0.076226
+Marijuana Use in the Past Month,12 or Older,2013-14,Illinois,0.076397,0.068946,0.08458
+Marijuana Use in the Past Month,12 or Older,2013-14,Indiana,0.075267,0.06337,0.089184
+Marijuana Use in the Past Month,12 or Older,2013-14,Iowa,0.050183,0.040246,0.062414
+Marijuana Use in the Past Month,12 or Older,2013-14,Kansas,0.063378,0.05215,0.076826
+Marijuana Use in the Past Month,12 or Older,2013-14,Kentucky,0.067482,0.055391,0.081984
+Marijuana Use in the Past Month,12 or Older,2013-14,Louisiana,0.06114,0.050119,0.074396
+Marijuana Use in the Past Month,12 or Older,2013-14,Maine,0.126692,0.108095,0.147958
+Marijuana Use in the Past Month,12 or Older,2013-14,Maryland,0.085545,0.072168,0.101131
+Marijuana Use in the Past Month,12 or Older,2013-14,Massachusetts,0.117471,0.1009,0.136352
+Marijuana Use in the Past Month,12 or Older,2013-14,Michigan,0.101826,0.092915,0.111487
+Marijuana Use in the Past Month,12 or Older,2013-14,Minnesota,0.072801,0.060749,0.087024
+Marijuana Use in the Past Month,12 or Older,2013-14,Mississippi,0.058463,0.04818,0.070778
+Marijuana Use in the Past Month,12 or Older,2013-14,Missouri,0.079779,0.066133,0.095952
+Marijuana Use in the Past Month,12 or Older,2013-14,Montana,0.100356,0.084653,0.118594
+Marijuana Use in the Past Month,12 or Older,2013-14,Nebraska,0.057856,0.047657,0.070077
+Marijuana Use in the Past Month,12 or Older,2013-14,Nevada,0.077644,0.063825,0.094154
+Marijuana Use in the Past Month,12 or Older,2013-14,New Hampshire,0.115051,0.099214,0.133042
+Marijuana Use in the Past Month,12 or Older,2013-14,New Jersey,0.063006,0.052405,0.075581
+Marijuana Use in the Past Month,12 or Older,2013-14,New Mexico,0.095566,0.079502,0.114474
+Marijuana Use in the Past Month,12 or Older,2013-14,New York,0.08523,0.077343,0.09384
+Marijuana Use in the Past Month,12 or Older,2013-14,North Carolina,0.067033,0.055436,0.080849
+Marijuana Use in the Past Month,12 or Older,2013-14,North Dakota,0.057749,0.047838,0.069565
+Marijuana Use in the Past Month,12 or Older,2013-14,Ohio,0.069292,0.062056,0.077301
+Marijuana Use in the Past Month,12 or Older,2013-14,Oklahoma,0.062228,0.05048,0.076489
+Marijuana Use in the Past Month,12 or Older,2013-14,Oregon,0.123831,0.106034,0.144133
+Marijuana Use in the Past Month,12 or Older,2013-14,Pennsylvania,0.072811,0.06566,0.080674
+Marijuana Use in the Past Month,12 or Older,2013-14,Rhode Island,0.127531,0.110185,0.147156
+Marijuana Use in the Past Month,12 or Older,2013-14,South Carolina,0.065725,0.054065,0.079689
+Marijuana Use in the Past Month,12 or Older,2013-14,South Dakota,0.048111,0.038932,0.059321
+Marijuana Use in the Past Month,12 or Older,2013-14,Tennessee,0.055431,0.04511,0.067946
+Marijuana Use in the Past Month,12 or Older,2013-14,Texas,0.059404,0.053433,0.065995
+Marijuana Use in the Past Month,12 or Older,2013-14,Utah,0.055826,0.045338,0.068568
+Marijuana Use in the Past Month,12 or Older,2013-14,Vermont,0.132388,0.114488,0.152604
+Marijuana Use in the Past Month,12 or Older,2013-14,Virginia,0.068591,0.057653,0.081426
+Marijuana Use in the Past Month,12 or Older,2013-14,Washington,0.127916,0.110311,0.147863
+Marijuana Use in the Past Month,12 or Older,2013-14,West Virginia,0.063033,0.051888,0.07638
+Marijuana Use in the Past Month,12 or Older,2013-14,Wisconsin,0.064597,0.052975,0.078557
+Marijuana Use in the Past Month,12 or Older,2013-14,Wyoming,0.063163,0.051696,0.076968
+Marijuana Use in the Past Month,12 or Older,2014-15,Alabama,0.053491,0.044087,0.064764
+Marijuana Use in the Past Month,12 or Older,2014-15,Alaska,0.143758,0.126149,0.163367
+Marijuana Use in the Past Month,12 or Older,2014-15,Arizona,0.085059,0.072252,0.099893
+Marijuana Use in the Past Month,12 or Older,2014-15,Arkansas,0.071738,0.060091,0.085438
+Marijuana Use in the Past Month,12 or Older,2014-15,California,0.096743,0.089839,0.104115
+Marijuana Use in the Past Month,12 or Older,2014-15,Colorado,0.165651,0.145982,0.187389
+Marijuana Use in the Past Month,12 or Older,2014-15,Connecticut,0.09594,0.08208,0.111854
+Marijuana Use in the Past Month,12 or Older,2014-15,Delaware,0.080493,0.068338,0.094591
+Marijuana Use in the Past Month,12 or Older,2014-15,District of Columbia,0.119275,0.103635,0.136915
+Marijuana Use in the Past Month,12 or Older,2014-15,Florida,0.077839,0.070687,0.085647
+Marijuana Use in the Past Month,12 or Older,2014-15,Georgia,0.077879,0.068118,0.088905
+Marijuana Use in the Past Month,12 or Older,2014-15,Hawaii,0.079464,0.066469,0.09474
+Marijuana Use in the Past Month,12 or Older,2014-15,Idaho,0.063437,0.052965,0.075814
+Marijuana Use in the Past Month,12 or Older,2014-15,Illinois,0.079128,0.070876,0.08825
+Marijuana Use in the Past Month,12 or Older,2014-15,Indiana,0.087165,0.074427,0.101843
+Marijuana Use in the Past Month,12 or Older,2014-15,Iowa,0.047781,0.038748,0.058792
+Marijuana Use in the Past Month,12 or Older,2014-15,Kansas,0.07281,0.061285,0.086303
+Marijuana Use in the Past Month,12 or Older,2014-15,Kentucky,0.070607,0.059289,0.083893
+Marijuana Use in the Past Month,12 or Older,2014-15,Louisiana,0.063201,0.052688,0.075644
+Marijuana Use in the Past Month,12 or Older,2014-15,Maine,0.136627,0.117886,0.157814
+Marijuana Use in the Past Month,12 or Older,2014-15,Maryland,0.096228,0.082219,0.112332
+Marijuana Use in the Past Month,12 or Older,2014-15,Massachusetts,0.116825,0.101306,0.134365
+Marijuana Use in the Past Month,12 or Older,2014-15,Michigan,0.100799,0.091472,0.11096
+Marijuana Use in the Past Month,12 or Older,2014-15,Minnesota,0.075957,0.063278,0.090929
+Marijuana Use in the Past Month,12 or Older,2014-15,Mississippi,0.053546,0.043741,0.065399
+Marijuana Use in the Past Month,12 or Older,2014-15,Missouri,0.080198,0.067702,0.094768
+Marijuana Use in the Past Month,12 or Older,2014-15,Montana,0.110929,0.095547,0.128437
+Marijuana Use in the Past Month,12 or Older,2014-15,Nebraska,0.062856,0.051982,0.075822
+Marijuana Use in the Past Month,12 or Older,2014-15,Nevada,0.078055,0.06434,0.0944
+Marijuana Use in the Past Month,12 or Older,2014-15,New Hampshire,0.120606,0.104781,0.138452
+Marijuana Use in the Past Month,12 or Older,2014-15,New Jersey,0.070053,0.060645,0.080794
+Marijuana Use in the Past Month,12 or Older,2014-15,New Mexico,0.10136,0.085966,0.11915
+Marijuana Use in the Past Month,12 or Older,2014-15,New York,0.095585,0.0878,0.103981
+Marijuana Use in the Past Month,12 or Older,2014-15,North Carolina,0.072937,0.063182,0.084063
+Marijuana Use in the Past Month,12 or Older,2014-15,North Dakota,0.059471,0.049638,0.071107
+Marijuana Use in the Past Month,12 or Older,2014-15,Ohio,0.076502,0.068737,0.085064
+Marijuana Use in the Past Month,12 or Older,2014-15,Oklahoma,0.062427,0.051303,0.075771
+Marijuana Use in the Past Month,12 or Older,2014-15,Oregon,0.127284,0.11127,0.145226
+Marijuana Use in the Past Month,12 or Older,2014-15,Pennsylvania,0.077298,0.069381,0.086034
+Marijuana Use in the Past Month,12 or Older,2014-15,Rhode Island,0.130232,0.112545,0.150227
+Marijuana Use in the Past Month,12 or Older,2014-15,South Carolina,0.081129,0.069204,0.094899
+Marijuana Use in the Past Month,12 or Older,2014-15,South Dakota,0.069349,0.058088,0.082601
+Marijuana Use in the Past Month,12 or Older,2014-15,Tennessee,0.063364,0.052476,0.076328
+Marijuana Use in the Past Month,12 or Older,2014-15,Texas,0.060952,0.054947,0.067567
+Marijuana Use in the Past Month,12 or Older,2014-15,Utah,0.050415,0.041421,0.061238
+Marijuana Use in the Past Month,12 or Older,2014-15,Vermont,0.147414,0.13022,0.166443
+Marijuana Use in the Past Month,12 or Older,2014-15,Virginia,0.066262,0.057356,0.076438
+Marijuana Use in the Past Month,12 or Older,2014-15,Washington,0.112167,0.096152,0.130464
+Marijuana Use in the Past Month,12 or Older,2014-15,West Virginia,0.069199,0.057677,0.08282
+Marijuana Use in the Past Month,12 or Older,2014-15,Wisconsin,0.068916,0.057407,0.08253
+Marijuana Use in the Past Month,12 or Older,2014-15,Wyoming,0.063231,0.052285,0.076283
+Marijuana Use in the Past Month,12 or Older,2015-16,Alabama,0.052497,0.043445,0.063309
+Marijuana Use in the Past Month,12 or Older,2015-16,Alaska,0.160335,0.140988,0.181775
+Marijuana Use in the Past Month,12 or Older,2015-16,Arizona,0.074168,0.062349,0.088017
+Marijuana Use in the Past Month,12 or Older,2015-16,Arkansas,0.069839,0.058388,0.083337
+Marijuana Use in the Past Month,12 or Older,2015-16,California,0.105102,0.0978,0.112882
+Marijuana Use in the Past Month,12 or Older,2015-16,Colorado,0.159223,0.140902,0.179428
+Marijuana Use in the Past Month,12 or Older,2015-16,Connecticut,0.093567,0.079942,0.109238
+Marijuana Use in the Past Month,12 or Older,2015-16,Delaware,0.088834,0.076035,0.103546
+Marijuana Use in the Past Month,12 or Older,2015-16,District of Columbia,0.140774,0.123309,0.16026
+Marijuana Use in the Past Month,12 or Older,2015-16,Florida,0.076496,0.069344,0.084318
+Marijuana Use in the Past Month,12 or Older,2015-16,Georgia,0.072182,0.062395,0.083368
+Marijuana Use in the Past Month,12 or Older,2015-16,Hawaii,0.081842,0.069255,0.09648
+Marijuana Use in the Past Month,12 or Older,2015-16,Idaho,0.069299,0.057646,0.083101
+Marijuana Use in the Past Month,12 or Older,2015-16,Illinois,0.079019,0.070655,0.088278
+Marijuana Use in the Past Month,12 or Older,2015-16,Indiana,0.08748,0.074596,0.102343
+Marijuana Use in the Past Month,12 or Older,2015-16,Iowa,0.054712,0.044969,0.066418
+Marijuana Use in the Past Month,12 or Older,2015-16,Kansas,0.069145,0.05806,0.082162
+Marijuana Use in the Past Month,12 or Older,2015-16,Kentucky,0.070233,0.059204,0.083136
+Marijuana Use in the Past Month,12 or Older,2015-16,Louisiana,0.068174,0.057558,0.080581
+Marijuana Use in the Past Month,12 or Older,2015-16,Maine,0.146879,0.128226,0.167724
+Marijuana Use in the Past Month,12 or Older,2015-16,Maryland,0.102243,0.088567,0.117757
+Marijuana Use in the Past Month,12 or Older,2015-16,Massachusetts,0.11848,0.103174,0.135712
+Marijuana Use in the Past Month,12 or Older,2015-16,Michigan,0.105467,0.09594,0.115819
+Marijuana Use in the Past Month,12 or Older,2015-16,Minnesota,0.073224,0.061272,0.08729
+Marijuana Use in the Past Month,12 or Older,2015-16,Mississippi,0.056888,0.04682,0.068963
+Marijuana Use in the Past Month,12 or Older,2015-16,Missouri,0.081267,0.068956,0.095551
+Marijuana Use in the Past Month,12 or Older,2015-16,Montana,0.120234,0.10459,0.137857
+Marijuana Use in the Past Month,12 or Older,2015-16,Nebraska,0.072074,0.059981,0.086383
+Marijuana Use in the Past Month,12 or Older,2015-16,Nevada,0.082528,0.069391,0.09789
+Marijuana Use in the Past Month,12 or Older,2015-16,New Hampshire,0.120584,0.105112,0.137983
+Marijuana Use in the Past Month,12 or Older,2015-16,New Jersey,0.067687,0.0583,0.07846
+Marijuana Use in the Past Month,12 or Older,2015-16,New Mexico,0.104983,0.090632,0.121303
+Marijuana Use in the Past Month,12 or Older,2015-16,New York,0.096829,0.088695,0.105622
+Marijuana Use in the Past Month,12 or Older,2015-16,North Carolina,0.077179,0.067232,0.088459
+Marijuana Use in the Past Month,12 or Older,2015-16,North Dakota,0.056105,0.046385,0.067719
+Marijuana Use in the Past Month,12 or Older,2015-16,Ohio,0.0895,0.080937,0.098872
+Marijuana Use in the Past Month,12 or Older,2015-16,Oklahoma,0.05988,0.049045,0.072925
+Marijuana Use in the Past Month,12 or Older,2015-16,Oregon,0.157093,0.139585,0.176347
+Marijuana Use in the Past Month,12 or Older,2015-16,Pennsylvania,0.082006,0.073867,0.090953
+Marijuana Use in the Past Month,12 or Older,2015-16,Rhode Island,0.152132,0.13374,0.172549
+Marijuana Use in the Past Month,12 or Older,2015-16,South Carolina,0.068155,0.057168,0.081073
+Marijuana Use in the Past Month,12 or Older,2015-16,South Dakota,0.076026,0.063783,0.090392
+Marijuana Use in the Past Month,12 or Older,2015-16,Tennessee,0.078244,0.065971,0.092574
+Marijuana Use in the Past Month,12 or Older,2015-16,Texas,0.05914,0.05286,0.066115
+Marijuana Use in the Past Month,12 or Older,2015-16,Utah,0.052458,0.042805,0.064141
+Marijuana Use in the Past Month,12 or Older,2015-16,Vermont,0.169578,0.1498,0.19138
+Marijuana Use in the Past Month,12 or Older,2015-16,Virginia,0.068569,0.059542,0.078851
+Marijuana Use in the Past Month,12 or Older,2015-16,Washington,0.120198,0.103702,0.138912
+Marijuana Use in the Past Month,12 or Older,2015-16,West Virginia,0.067574,0.055987,0.081351
+Marijuana Use in the Past Month,12 or Older,2015-16,Wisconsin,0.073804,0.061704,0.088055
+Marijuana Use in the Past Month,12 or Older,2015-16,Wyoming,0.062662,0.051466,0.076099
+Marijuana Use in the Past Month,12 or Older,2016-17,Alabama,0.063712,0.052869,0.076599
+Marijuana Use in the Past Month,12 or Older,2016-17,Alaska,0.15814,0.138681,0.179761
+Marijuana Use in the Past Month,12 or Older,2016-17,Arizona,0.083757,0.069975,0.099962
+Marijuana Use in the Past Month,12 or Older,2016-17,Arkansas,0.081925,0.068966,0.097065
+Marijuana Use in the Past Month,12 or Older,2016-17,California,0.113341,0.105736,0.121419
+Marijuana Use in the Past Month,12 or Older,2016-17,Colorado,0.164301,0.145043,0.185562
+Marijuana Use in the Past Month,12 or Older,2016-17,Connecticut,0.105925,0.090541,0.123568
+Marijuana Use in the Past Month,12 or Older,2016-17,Delaware,0.099489,0.085015,0.116114
+Marijuana Use in the Past Month,12 or Older,2016-17,District of Columbia,0.171699,0.151416,0.194077
+Marijuana Use in the Past Month,12 or Older,2016-17,Florida,0.086469,0.078565,0.095086
+Marijuana Use in the Past Month,12 or Older,2016-17,Georgia,0.067358,0.058159,0.077893
+Marijuana Use in the Past Month,12 or Older,2016-17,Hawaii,0.081679,0.06784,0.098044
+Marijuana Use in the Past Month,12 or Older,2016-17,Idaho,0.076196,0.064076,0.090388
+Marijuana Use in the Past Month,12 or Older,2016-17,Illinois,0.088109,0.078993,0.098165
+Marijuana Use in the Past Month,12 or Older,2016-17,Indiana,0.092868,0.079621,0.10806
+Marijuana Use in the Past Month,12 or Older,2016-17,Iowa,0.066451,0.05582,0.078938
+Marijuana Use in the Past Month,12 or Older,2016-17,Kansas,0.066164,0.054229,0.080502
+Marijuana Use in the Past Month,12 or Older,2016-17,Kentucky,0.077674,0.065299,0.092162
+Marijuana Use in the Past Month,12 or Older,2016-17,Louisiana,0.075987,0.063968,0.090048
+Marijuana Use in the Past Month,12 or Older,2016-17,Maine,0.158081,0.138994,0.179244
+Marijuana Use in the Past Month,12 or Older,2016-17,Maryland,0.106849,0.092719,0.122841
+Marijuana Use in the Past Month,12 or Older,2016-17,Massachusetts,0.133793,0.117125,0.152423
+Marijuana Use in the Past Month,12 or Older,2016-17,Michigan,0.116109,0.105479,0.127658
+Marijuana Use in the Past Month,12 or Older,2016-17,Minnesota,0.077112,0.065155,0.091048
+Marijuana Use in the Past Month,12 or Older,2016-17,Mississippi,0.069576,0.058009,0.083245
+Marijuana Use in the Past Month,12 or Older,2016-17,Missouri,0.08419,0.071304,0.099155
+Marijuana Use in the Past Month,12 or Older,2016-17,Montana,0.130066,0.1132,0.149023
+Marijuana Use in the Past Month,12 or Older,2016-17,Nebraska,0.077046,0.064956,0.091167
+Marijuana Use in the Past Month,12 or Older,2016-17,Nevada,0.118067,0.101534,0.136881
+Marijuana Use in the Past Month,12 or Older,2016-17,New Hampshire,0.128954,0.112363,0.147588
+Marijuana Use in the Past Month,12 or Older,2016-17,New Jersey,0.071463,0.061494,0.082906
+Marijuana Use in the Past Month,12 or Older,2016-17,New Mexico,0.119591,0.103296,0.138061
+Marijuana Use in the Past Month,12 or Older,2016-17,New York,0.09472,0.086597,0.103519
+Marijuana Use in the Past Month,12 or Older,2016-17,North Carolina,0.079241,0.069159,0.090648
+Marijuana Use in the Past Month,12 or Older,2016-17,North Dakota,0.06437,0.053104,0.077829
+Marijuana Use in the Past Month,12 or Older,2016-17,Ohio,0.085778,0.077081,0.095355
+Marijuana Use in the Past Month,12 or Older,2016-17,Oklahoma,0.068974,0.057152,0.083026
+Marijuana Use in the Past Month,12 or Older,2016-17,Oregon,0.192285,0.172183,0.214126
+Marijuana Use in the Past Month,12 or Older,2016-17,Pennsylvania,0.082274,0.073574,0.091901
+Marijuana Use in the Past Month,12 or Older,2016-17,Rhode Island,0.157492,0.138345,0.178739
+Marijuana Use in the Past Month,12 or Older,2016-17,South Carolina,0.06658,0.055251,0.080036
+Marijuana Use in the Past Month,12 or Older,2016-17,South Dakota,0.071334,0.059665,0.085079
+Marijuana Use in the Past Month,12 or Older,2016-17,Tennessee,0.079991,0.067297,0.094837
+Marijuana Use in the Past Month,12 or Older,2016-17,Texas,0.059768,0.053576,0.066624
+Marijuana Use in the Past Month,12 or Older,2016-17,Utah,0.062547,0.051725,0.075453
+Marijuana Use in the Past Month,12 or Older,2016-17,Vermont,0.186431,0.165935,0.208825
+Marijuana Use in the Past Month,12 or Older,2016-17,Virginia,0.069564,0.060192,0.08027
+Marijuana Use in the Past Month,12 or Older,2016-17,Washington,0.15298,0.134147,0.173926
+Marijuana Use in the Past Month,12 or Older,2016-17,West Virginia,0.075898,0.063528,0.090443
+Marijuana Use in the Past Month,12 or Older,2016-17,Wisconsin,0.078938,0.065818,0.094408
+Marijuana Use in the Past Month,12 or Older,2016-17,Wyoming,0.071007,0.058908,0.085366
+Marijuana Use in the Past Month,12 or Older,2017-18,Alabama,0.083115,0.070105,0.098285
+Marijuana Use in the Past Month,12 or Older,2017-18,Alaska,0.165557,0.146363,0.186717
+Marijuana Use in the Past Month,12 or Older,2017-18,Arizona,0.10925,0.091956,0.129334
+Marijuana Use in the Past Month,12 or Older,2017-18,Arkansas,0.085969,0.072028,0.102311
+Marijuana Use in the Past Month,12 or Older,2017-18,California,0.119674,0.111923,0.127884
+Marijuana Use in the Past Month,12 or Older,2017-18,Colorado,0.173288,0.152923,0.195738
+Marijuana Use in the Past Month,12 or Older,2017-18,Connecticut,0.120605,0.104122,0.139293
+Marijuana Use in the Past Month,12 or Older,2017-18,Delaware,0.11161,0.095376,0.130209
+Marijuana Use in the Past Month,12 or Older,2017-18,District of Columbia,0.166317,0.145443,0.189523
+Marijuana Use in the Past Month,12 or Older,2017-18,Florida,0.0928,0.084404,0.101938
+Marijuana Use in the Past Month,12 or Older,2017-18,Georgia,0.082277,0.072103,0.093741
+Marijuana Use in the Past Month,12 or Older,2017-18,Hawaii,0.087976,0.073874,0.104467
+Marijuana Use in the Past Month,12 or Older,2017-18,Idaho,0.082135,0.069181,0.097262
+Marijuana Use in the Past Month,12 or Older,2017-18,Illinois,0.096449,0.087031,0.106766
+Marijuana Use in the Past Month,12 or Older,2017-18,Indiana,0.102046,0.08767,0.118473
+Marijuana Use in the Past Month,12 or Older,2017-18,Iowa,0.070381,0.05905,0.083693
+Marijuana Use in the Past Month,12 or Older,2017-18,Kansas,0.063436,0.051861,0.077384
+Marijuana Use in the Past Month,12 or Older,2017-18,Kentucky,0.081946,0.069067,0.096978
+Marijuana Use in the Past Month,12 or Older,2017-18,Louisiana,0.076903,0.064348,0.091667
+Marijuana Use in the Past Month,12 or Older,2017-18,Maine,0.165702,0.144748,0.189019
+Marijuana Use in the Past Month,12 or Older,2017-18,Maryland,0.098969,0.083796,0.116539
+Marijuana Use in the Past Month,12 or Older,2017-18,Massachusetts,0.136039,0.118556,0.155645
+Marijuana Use in the Past Month,12 or Older,2017-18,Michigan,0.126119,0.115349,0.137737
+Marijuana Use in the Past Month,12 or Older,2017-18,Minnesota,0.094813,0.080379,0.111525
+Marijuana Use in the Past Month,12 or Older,2017-18,Mississippi,0.069843,0.057662,0.084368
+Marijuana Use in the Past Month,12 or Older,2017-18,Missouri,0.085689,0.072317,0.101263
+Marijuana Use in the Past Month,12 or Older,2017-18,Montana,0.144592,0.127323,0.163764
+Marijuana Use in the Past Month,12 or Older,2017-18,Nebraska,0.082057,0.069343,0.096858
+Marijuana Use in the Past Month,12 or Older,2017-18,Nevada,0.150501,0.130382,0.173106
+Marijuana Use in the Past Month,12 or Older,2017-18,New Hampshire,0.142448,0.124045,0.163074
+Marijuana Use in the Past Month,12 or Older,2017-18,New Jersey,0.078872,0.068201,0.091049
+Marijuana Use in the Past Month,12 or Older,2017-18,New Mexico,0.129785,0.110791,0.15148
+Marijuana Use in the Past Month,12 or Older,2017-18,New York,0.097652,0.089182,0.106834
+Marijuana Use in the Past Month,12 or Older,2017-18,North Carolina,0.077933,0.067586,0.089711
+Marijuana Use in the Past Month,12 or Older,2017-18,North Dakota,0.076167,0.063776,0.090732
+Marijuana Use in the Past Month,12 or Older,2017-18,Ohio,0.083445,0.074876,0.092897
+Marijuana Use in the Past Month,12 or Older,2017-18,Oklahoma,0.075126,0.062624,0.089886
+Marijuana Use in the Past Month,12 or Older,2017-18,Oregon,0.188284,0.167385,0.21113
+Marijuana Use in the Past Month,12 or Older,2017-18,Pennsylvania,0.083776,0.074755,0.093774
+Marijuana Use in the Past Month,12 or Older,2017-18,Rhode Island,0.146458,0.127878,0.16722
+Marijuana Use in the Past Month,12 or Older,2017-18,South Carolina,0.083202,0.069401,0.099454
+Marijuana Use in the Past Month,12 or Older,2017-18,South Dakota,0.071156,0.059687,0.084629
+Marijuana Use in the Past Month,12 or Older,2017-18,Tennessee,0.085478,0.07198,0.10123
+Marijuana Use in the Past Month,12 or Older,2017-18,Texas,0.060643,0.054394,0.067559
+Marijuana Use in the Past Month,12 or Older,2017-18,Utah,0.060574,0.050382,0.07267
+Marijuana Use in the Past Month,12 or Older,2017-18,Vermont,0.192969,0.171718,0.216164
+Marijuana Use in the Past Month,12 or Older,2017-18,Virginia,0.07274,0.063168,0.083632
+Marijuana Use in the Past Month,12 or Older,2017-18,Washington,0.16395,0.144719,0.185182
+Marijuana Use in the Past Month,12 or Older,2017-18,West Virginia,0.094153,0.079462,0.111231
+Marijuana Use in the Past Month,12 or Older,2017-18,Wisconsin,0.088928,0.074252,0.106174
+Marijuana Use in the Past Month,12 or Older,2017-18,Wyoming,0.07732,0.064755,0.092083
