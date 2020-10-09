@@ -2,4 +2,9 @@ notebook
 pandas
 numpy
 matplotlib
-geopandas
+seaborn
+holoviews
+sklearn
+plotly
+wordcloud
+scipy
